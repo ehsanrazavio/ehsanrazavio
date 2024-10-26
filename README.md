@@ -1,10 +1,21 @@
 # Hi, I'm Ehsan Razavi 👋
 
-## About Me
-🌟 15+ Years Forex Trading Expert & Full Stack Developer  
-💹 Professional Trading Systems Developer  
-🚀 Web Development Specialist  
-🛠️ Building tools for traders and developers
+# About Me
+
+Veteran Forex trader and technology innovator with 15+ years of market expertise. 
+Specializing in developing sophisticated trading systems and professional web applications. 
+Bridging the gap between financial markets and technology through custom solutions.
+
+### What I Do
+🎯 Algorithmic Trading System Development  
+📊 Professional Trading Tools & Indicators  
+💻 Full Stack Web Applications  
+🔧 Laravel Package Development
+
+### Current Focus
+🚀 Building next-generation trading tools  
+📈 Developing innovative financial technology solutions  
+🛠️ Creating developer-friendly Laravel packages
 
 ## Expertise
 
