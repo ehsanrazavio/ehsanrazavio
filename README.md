@@ -1,35 +1,83 @@
 # Hi, I'm Ehsan Razavi 👋
 
 ## About Me
-🚀 Full Stack Laravel Developer passionate about creating developer tools and web applications  
-🛠️ Currently building Laravel packages to improve developer experience  
-💡 Focused on clean code, best practices, and elegant solutions
+🌟 15+ Years Forex Trading Expert & Full Stack Developer  
+💹 Professional Trading Systems Developer  
+🚀 Web Development Specialist  
+🛠️ Building tools for traders and developers
 
-## My Projects
-### Laravel Packages
-- 📦 [laravel-form-generator](link) - Bootstrap form generator for Laravel
-- 🔄 [upcoming-package](link) - Coming soon
-- 🎯 More packages in development
+## Expertise
 
-### Skills
+### Trading Development
+```python
+trading_skills = {
+    'Languages': [
+        'MQL4', 'MQL5',           # MetaTrader Expert Advisors
+        'PineScript',             # TradingView Indicators
+        'C# (cAlgo)',            # Algorithmic Trading
+    ],
+    'Specialties': [
+        'Expert Advisors',
+        'Custom Indicators',
+        'Trading Automation',
+        'Signal Systems',
+        'Risk Management Tools'
+    ],
+    'Experience': '15+ years'
+}
+```
+
+### Web Development
 ```php
-$skills = [
-    'Backend' => ['PHP', 'Laravel', 'MySQL', 'API Development'],
-    'Frontend' => ['Vue.js', 'JavaScript', 'Tailwind CSS', 'Bootstrap'],
-    'DevOps' => ['Git', 'Docker', 'CI/CD'],
-    'Testing' => ['PHPUnit', 'Feature Testing', 'TDD'],
+$web_skills = [
+    'Backend' => [
+        'PHP',
+        'Laravel' => [
+            'API Development',
+            'Package Development',
+            'Custom Solutions'
+        ]
+    ],
+    'Frontend' => [
+        'Bootstrap',
+        'JavaScript',
+        'jQuery',
+        'Responsive Design'
+    ],
+    'Database' => ['MySQL', 'PostgreSQL']
 ];
 ```
 
-### Latest Blog Posts
+## Featured Projects
+
+### Trading Tools
+- 🤖 [Forex EA Name] - Professional MetaTrader Expert Advisor
+- 📊 [Indicator Name] - Custom Trading Indicator for TradingView
+- 📈 [Trading Tool] - Risk Management Calculator
+- 🔄 [Signal System] - Automated Trading Signals System
+
+### Web Applications
+- 🌐 [Project Name] - Trading Dashboard
+- 💼 [Project Name] - Portfolio Management System
+- 🚀 [Project Name] - Trading Education Platform
+- 📦 [Laravel Package] - Form Generator for Laravel
+
+## Professional Services
+- 📊 Trading Systems Development
+- 🤖 Expert Advisor Programming
+- 🌐 Web Application Development
+- 💡 Trading Technology Consulting
+
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Coming Soon...]
+- [Coming Soon: Trading Technology Insights]
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me
+[![MQL5](https://img.shields.io/badge/MQL5-Profile-orange?style=for-the-badge)](https://mql5.com/maniacmql)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsanrazavio)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https:://www.x.com/forexipy)
-[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https:://www.forexipy.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/forexipy)
+[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.forexipy.com)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsanrazavio&show_icons=true&theme=radical)
@@ -41,5 +89,6 @@ $skills = [
 
 ---
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Bridging the gap between Trading and Technology</i>
 </p>
+
